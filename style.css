@@ -6,15 +6,5 @@
 
 #page-wrapper {
 	position: relative;
+	width: 100%;
 }
-
-#header {
-	top: 0;
-	position: fixed;
-	padding-left: 20px;
-	padding-right: 20px;
-	padding-top: 0px;
-	padding-bottom: 0px;
-	background: #95B13F;
-}
-
