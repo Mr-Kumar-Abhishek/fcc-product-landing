@@ -24,6 +24,7 @@ figure {
 	text-align: center;
 	margin-top: 15px;
 	width: 100%;
+	margin-bottom: 10px;
 }
 
 nav {
@@ -38,4 +39,5 @@ nav {
 
 li {
 	list-style: none;
+	padding-bottom: 10px;
 }
