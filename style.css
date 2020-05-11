@@ -78,3 +78,9 @@ form input[type='email'] {
     font-size: 0.9em;
 }
 
+button[type='submit'] {
+	width: 60%;
+    height: 2.2em;
+    border-radius: 10px;
+}
+
