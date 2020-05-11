@@ -98,4 +98,5 @@ button[type='submit'] {
 
 #features {
 	display: flex;
+	flex-direction: column;
 }
