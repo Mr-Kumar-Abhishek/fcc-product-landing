@@ -114,6 +114,9 @@ button[type='submit'] {
 }
 
 #features .description {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
 	height: 5em;
 	width: 80vw;
 }
