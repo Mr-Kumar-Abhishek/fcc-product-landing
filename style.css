@@ -51,11 +51,16 @@ a {
 	color: #000;
 }
 
+main {
+	display: flex;
+}
+
 .conversion-point {
 	display: flex;
 	flex-direction: column;
 	width: 100%;
 	align-items: center;
 	justify-content: center;
+	margin-top: 150px;
 }
 
