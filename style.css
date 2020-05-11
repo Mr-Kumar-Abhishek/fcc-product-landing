@@ -106,3 +106,7 @@ button[type='submit'] {
 	flex-direction: row;
 }
 
+
+#features .icon {
+	font-size: 5em;
+}
