@@ -80,8 +80,9 @@ form input[type='email'] {
 
 button[type='submit'] {
 	width: 60%;
-    height: 2.2em;
+    height: 30px;
     border-radius: 10px;
-    font-size: 0.85em;
+    font-size: 1em;
+    font-weight: 900;
 }
 
