@@ -96,3 +96,6 @@ button[type='submit'] {
 	max-width: 1000px;
 }
 
+#features {
+	display: flex;
+}
