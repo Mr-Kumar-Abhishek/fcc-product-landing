@@ -100,3 +100,9 @@ button[type='submit'] {
 	display: flex;
 	flex-direction: column;
 }
+
+.grid {
+	display: flex;
+	flex-direction: row;
+}
+
