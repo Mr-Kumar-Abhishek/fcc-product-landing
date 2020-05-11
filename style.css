@@ -65,3 +65,7 @@ main {
 	text-align: center;
 }
 
+form input[type='email'] {
+	width: 100%
+}
+
