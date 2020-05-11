@@ -108,5 +108,12 @@ button[type='submit'] {
 
 
 #features .icon {
+	height: 1em;
 	font-size: 5em;
+	width: 20vw;
+}
+
+#features .description {
+	height: 5em;
+	width: 80vw;
 }
