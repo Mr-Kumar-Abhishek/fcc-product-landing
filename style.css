@@ -18,6 +18,7 @@ header {
     align-items: center;
     width: 100%;
     flex-wrap: wrap;
+    background: #fff;
 }
 
 figure {
