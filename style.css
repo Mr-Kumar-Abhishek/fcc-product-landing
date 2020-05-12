@@ -108,6 +108,9 @@ button[type='submit'] {
 
 
 #features .icon {
+	display: flex;
+	align-items: center;
+	justify-content: center;
 	height: 1em;
 	font-size: 5em;
 	width: 20vw;
@@ -116,7 +119,7 @@ button[type='submit'] {
 #features .description {
 	display: flex;
 	flex-direction: column;
-	justify-content: center;
 	height: 5em;
 	width: 80vw;
+	padding: 1em;
 }
