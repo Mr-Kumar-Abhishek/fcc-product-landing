@@ -126,3 +126,10 @@ button[type='submit'] {
 	padding-left: 1em;
 	padding-right: 1em;
 }
+
+#how-it-works {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	margin-top: 3rem;
+}
