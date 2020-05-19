@@ -95,6 +95,7 @@ button[type='submit'] {
 	margin-top: 0px;
 	margin-bottom: 0px;
 	max-width: 1000px;
+	width: 100%;
 }
 
 #features {
@@ -175,4 +176,9 @@ button {
 	margin-top: 1rem;
 	font-weight: bolder;
 	margin-bottom: 1rem;
+}
+
+footer {
+	width: 100%;
+	text-align: right;
 }
