@@ -150,6 +150,9 @@ button[type='submit'] {
 	margin-right: auto;
 	margin-bottom: 10px;
 	text-align: center;
+	border-style: solid;
+	border-width: 2px;
+	border-color: black;
 }
 
 .product-head {
@@ -171,4 +174,5 @@ button {
 	padding-bottom: 10px;
 	margin-top: 1rem;
 	font-weight: bolder;
+	margin-bottom: 1rem;
 }
