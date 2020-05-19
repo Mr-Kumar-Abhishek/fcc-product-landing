@@ -198,4 +198,18 @@ footer ul li {
 	#pricing {
 		flex-direction: row;
 	}
+	figure {
+		width: 30%;
+	}
+	nav {
+		width: 60%;
+	}
+	nav ul {
+		display: flex;
+		flex-direction: row;
+	}
+	nav ul li {
+		padding-left: 10px;
+		padding-right: 10px;
+	}
 }
