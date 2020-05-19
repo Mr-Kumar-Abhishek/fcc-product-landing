@@ -182,3 +182,14 @@ footer {
 	width: 100%;
 	text-align: right;
 }
+
+footer ul {
+	display: flex;
+	justify-content: flex-end;
+}
+
+footer ul li {
+	padding-left: 10px;
+	padding-right: 10px;
+}
+ 
