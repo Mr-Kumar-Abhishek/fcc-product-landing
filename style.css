@@ -194,3 +194,8 @@ footer ul li {
     padding-right: 0px;
 }
  
+@media screen and (min-width: 980px) {
+	#pricing {
+		flex-direction: row;
+	}
+}
