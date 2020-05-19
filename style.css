@@ -168,7 +168,7 @@ button[type='submit'] {
 	margin-top: 1.5rem;
 }
 
-button {
+.product button {
 	padding-left: 20px;
 	padding-right: 20px;
 	padding-top: 10px;
