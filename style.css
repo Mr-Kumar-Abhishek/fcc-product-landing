@@ -2,8 +2,15 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  font-family: san-serif;
 }
 
+:root {
+	--orange-color: #e52a13;
+}
+
+
+}
 #page-wrapper {
 	position: relative;
 	width: 100%;
@@ -87,6 +94,8 @@ button[type='submit'] {
     border-radius: 10px;
     font-size: 1em;
     font-weight: 900;
+    background: var(--orange-color);
+    color: #fff;
 }
 
 .container {
@@ -117,6 +126,7 @@ button[type='submit'] {
 	height: 1em;
 	font-size: 5em;
 	width: 20vw;
+	color: var(--orange-color);
 }
 
 #features .description {
@@ -176,6 +186,9 @@ button[type='submit'] {
 	margin-top: 1rem;
 	font-weight: bolder;
 	margin-bottom: 1rem;
+	background: var(--orange-color);
+	color: #fff;
+	border-radius: 5px;
 }
 
 footer {
