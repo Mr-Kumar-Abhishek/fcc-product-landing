@@ -92,7 +92,7 @@ form input[type='email'] {
     font-size: 0.9em;
 }
 
-button[type='submit'] {
+input[type='submit'] {
 	width: 60%;
     height: 30px;
     border-radius: 10px;
