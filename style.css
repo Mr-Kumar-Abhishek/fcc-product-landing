@@ -129,7 +129,7 @@ input[type='submit'] {
 	align-items: center;
 	justify-content: center;
 	height: 1em;
-	font-size: 5em;
+	font-size: 3em;
 	width: 20vw;
 	color: var(--orange-color);
 }
@@ -241,5 +241,8 @@ footer ul li {
 	nav ul li {
 		padding-left: 10px;
 		padding-right: 10px;
+	}
+	#features .icon{
+		font-size: 5rem;
 	}
 }
