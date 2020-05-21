@@ -96,6 +96,7 @@ button[type='submit'] {
     font-weight: 900;
     background: var(--orange-color);
     color: #fff;
+    border: 0px;
 }
 
 .container {
@@ -189,6 +190,7 @@ button[type='submit'] {
 	background: var(--orange-color);
 	color: #fff;
 	border-radius: 5px;
+	border: 0px;
 }
 
 footer {
