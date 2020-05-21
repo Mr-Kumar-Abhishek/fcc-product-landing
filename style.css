@@ -132,6 +132,7 @@ input[type='submit'] {
 	font-size: 3em;
 	width: 20vw;
 	color: var(--orange-color);
+	margin-left: 1rem;
 }
 
 #features .description {
