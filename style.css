@@ -177,6 +177,7 @@ button[type='submit'] {
 	padding: 15px;
 	font-weight: 800;
 	background: #fff591;
+	margin-bottom: 1rem;
 }
 
 .product ol {
